@@ -1,0 +1,23 @@
+{
+  "name": "jasmine_lista_03-es2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "jasmine": "^5.0.2"
+  },
+  "scripts": {
+    "start": "http-server",
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
